@@ -1,0 +1,33 @@
+{
+  "name": "eslint-plugin-pg-ui5",
+  "version": "0.1.0",
+  "description": "ESLint rules for UI5 development",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "ui5",
+    "openui5",
+    "sapui5"
+  ],
+  "author": "Marc Schleeweiß",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "5.3.0",
+    "mocha": "5.2.0"
+  },
+  "engines": {
+    "node": ">=8.9.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mschleeweiss/eslint-plugin-ui5/issues"
+  },
+  "homepage": "https://gitlab.com/mschleeweiss/eslint-plugin-ui5"
+}
