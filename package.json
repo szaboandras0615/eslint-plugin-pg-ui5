@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-pg-ui5",
+  "name": "eslint-plugin-ui5",
   "version": "0.1.0",
   "description": "ESLint rules for UI5 development",
   "keywords": [
